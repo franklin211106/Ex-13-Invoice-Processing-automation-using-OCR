@@ -1,8 +1,8 @@
 # Ex-13-Invoice-Processing-automation-using-OCR
 
 ~~~
-Name : M.JOHNPALL
-Reg.No : 212224040140
+Name : FRANKLIN.F
+Reg.No : 212224240041
 ~~~
 
 ## Aim
